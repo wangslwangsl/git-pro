@@ -1,6 +1,6 @@
 public class IndexController {
 
     public static void main(String[] args) {
-        System.out.println("gitpro->master->update");
+        System.out.println("gitpro->master->update2");
     }
 }
